@@ -3,16 +3,19 @@
 <h1>Joke Generation Using MinGPT with tf2.x 🌟</h1>
 <img src="https://i.imgur.com/BcPSOvq.png" width="400">
 <br/>
+<p align="center">
 <a href=""><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
-<br/>
-<img alt="GitHub" src="https://img.shields.io/github/license/soumya997/Joke-Generation-Using-MinGPT-with-tensorflow-2.0?style=for-the-badge">
+<br/><img alt="GitHub" src="https://img.shields.io/github/license/soumya997/Joke-Generation-Using-MinGPT-with-tensorflow-2.0?style=for-the-badge">
+</p>
 <p align="center">
 
  <img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/made-with-python.svg"> <img src="https://forthebadge.com/images/badges/open-source.svg"> <img src="https://forthebadge.com/images/badges/made-with-reason.svg">
 
 </p>
-
+<p align="center">
 <i>Its a tf2 based implimentation of minGPT which has beed used for generating jokes in our case.</i>
+
+</p>
 
 </p>
 
