@@ -1,7 +1,6 @@
 
 <p align="center">
 <h1>Joke Generation Using MinGPT with tf2.x 🌟</h1>
-<img src="https://i.imgur.com/BcPSOvq.png" width="400">
 <br/>
 <p align="center">
 <a href=""><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
