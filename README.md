@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-<i>Its a tf2 based implimentation of minGPT which has beed used for generating jokes in our case.</i>
+<i>Its a tf2 based implementation of minGPT which has been used for generating jokes in our case.</i>
 
 </p>
 
