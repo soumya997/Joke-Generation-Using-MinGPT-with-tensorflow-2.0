@@ -24,3 +24,7 @@
 <img src="https://i.ibb.co/JdRPcZC/Whats-App-Image-2020-10-23-at-3-44-47-AM-7.jpg" width= "900">  <img src="https://i.ibb.co/7Sm25MP/Whats-App-Image-2020-10-23-at-3-44-47-AM-3.jpg" width="900">  <img src="https://i.ibb.co/NFgtDxT/Whats-App-Image-2020-10-23-at-3-44-47-AM-1.jpg" width="900">  <img src="https://i.ibb.co/mhcR6SD/Whats-App-Image-2020-10-23-at-3-44-47-AM-9.jpg" width="900">
 
 </pre>
+
+## References:
+1. https://github.com/karpathy/minGPT by [@karpathy](https://github.com/karpathy)
+2. https://github.com/kamalkraj/minGPT-TF by [@kamalkraj](https://github.com/kamalkraj)
